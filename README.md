@@ -6,7 +6,7 @@ This is accomplished by a simple remapping of the existing buttons to behave lik
 # How do I use it?
 
 You will first need to install and configure the [JS Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) plugin. Once that is done, do this:
-- Open the JS Injector settings in your Jellyfin admin dashbaord.
+- Open the JS Injector settings in your Jellyfin admin dashboard.
 - Click Add Script.
 - Name it whatever makes sense to you.
 - Click on this link and paste the code into the JavaScript field: [JellyfinSkipButtons.js](https://github.com/Jaakurin/JellyfinSkipButtons/blob/main/JellyfinSkipButtons.js)
